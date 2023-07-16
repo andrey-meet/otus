@@ -9,6 +9,7 @@ public class HelloOtus {
 
         int first = 10;
         int second = 20;
+        int third = 11;
 
         Integer[] rest = {30, 40, 50};
 
